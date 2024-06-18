@@ -1,0 +1,45 @@
+[
+  {
+    "id": "employee.name",
+    "label": "Employee name",
+    "category": "employee"
+  },
+  {
+    "id": "order.time",
+    "label": "Order time",
+    "category": "time"
+  },
+  {
+    "id": "employee.id",
+    "label": "Employee Id",
+    "category": "employee"
+  },
+  {
+    "id": "gratuity",
+    "label": "Gratuity",
+    "category": "cash"
+  },
+  {
+    "id": "description",
+    "label": "Description"
+  },
+  {
+    "id": "total.amount",
+    "label": "Total amount"
+  },
+  {
+    "id": "change.due",
+    "label": "Change due",
+    "category": "cash"
+  },
+  {
+    "id": "total.discount",
+    "label": "Total discount",
+    "category": "cash"
+  },
+  {
+    "id": "wait.time",
+    "label": "Wait time",
+    "category": "time"
+  }
+]
